@@ -15,6 +15,7 @@
     - [`ElectionEvaluator`](#electionevaluator-1)
     - [`Candidate` (Pydantic Model)](#candidate-pydantic-model)
     - [`Election` (Pydantic Model)](#election-pydantic-model)
+    - [`Summary` (Dictionary)](#summary-dictionary)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -90,6 +91,19 @@ evaluator.print_election_details()
 
 - **Methods**
   - `from_loc(cls, loc: pd.Series) -> Election` - Creates an Election instance from a pandas Series.
+
+### `Summary` (Dictionary)
+
+- **Attributes**
+  - age_summation
+  - candidate_count
+  - average_age
+  - max_age_sum_index
+  - min_age_sum_index
+  - youngest_president_index
+  - oldest_president_index
+  - youngest_competitor_index
+  - oldest_competitor_index
 
 ## Contributing
 
