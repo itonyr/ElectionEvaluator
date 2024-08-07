@@ -1,0 +1,42 @@
+president,president_age,competitor,competitor_age,election_year
+George Washington,57,John Adams,41,1789
+John Adams,61,Thomas Jefferson,53,1796
+Thomas Jefferson,57,John Adams,65,1800
+James Madison,57,Charles C. Pinckney,63,1808
+James Monroe,58,Rufus King,65,1816
+John Quincy Adams,57,Andrew Jackson,61,1824
+Andrew Jackson,61,John Quincy Adams,61,1828
+Martin Van Buren,54,William Henry Harrison,67,1836
+William Henry Harrison,68,Martin Van Buren,58,1840
+James K. Polk,49,Henry Clay,67,1844
+Zachary Taylor,64,Lewis Cass,66,1848
+Franklin Pierce,48,Winfield Scott,66,1852
+James Buchanan,65,John C. Frémont,43,1856
+Abraham Lincoln,51,Stephen A. Douglas,48,1860
+Ulysses S. Grant,46,Horatio Seymour,58,1868
+Rutherford B. Hayes,54,Samuel J. Tilden,62,1876
+James A. Garfield,49,Winfield Scott Hancock,56,1880
+Grover Cleveland,47,James G. Blaine,54,1884
+Benjamin Harrison,55,Grover Cleveland,51,1888
+William McKinley,54,William Jennings Bryan,36,1896
+Theodore Roosevelt,46,Alton B. Parker,52,1904
+William Howard Taft,51,William Jennings Bryan,48,1908
+Woodrow Wilson,56,Charles Evans Hughes,54,1916
+Warren G. Harding,55,James M. Cox,50,1920
+Calvin Coolidge,52,John W. Davis,51,1924
+Herbert Hoover,54,Al Smith,54,1928
+Franklin D. Roosevelt,50,Herbert Hoover,58,1932
+Harry S. Truman,64,Thomas E. Dewey,46,1948
+Dwight D. Eisenhower,62,Adlai Stevenson II,52,1952
+John F. Kennedy,43,Richard Nixon,47,1960
+Lyndon B. Johnson,56,Barry Goldwater,55,1964
+Richard Nixon,55,Hubert Humphrey,57,1968
+Gerald Ford,63,Jimmy Carter,52,1976
+Jimmy Carter,52,Gerald Ford,63,1976
+Ronald Reagan,69,Jimmy Carter,56,1980
+George H. W. Bush,64,Michael Dukakis,55,1988
+Bill Clinton,46,George H. W. Bush,68,1992
+George W. Bush,54,Al Gore,52,2000
+Barack Obama,47,John McCain,72,2008
+Donald Trump,70,Hillary Clinton,69,2016
+Joe Biden,77,Donald Trump,74,2020
